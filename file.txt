@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Hello') { // Defines a stage named 'Hello'.
             steps {
-                echo 'Hello, Jenkins Pipeline!' // Executes a step to print a message.
+                echo 'Hello, I am syed DevOps ENG!' // Executes a step to print a message.
             }
         }
     }
